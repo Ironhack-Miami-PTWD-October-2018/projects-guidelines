@@ -25,7 +25,7 @@ You and the Ironhack staff will also vote for your favorites
 and award three medals: Bronze 🥉, Silver 🥈, and Gold 🥇.
 
 Here are some examples of past projects:
-- [Kitty Clicker](https://ryanjso.github.io/PhKitty/index.html/)
+- [Kitty Clicker](https://ryanjso.github.io/PhKitty/index.html)
 - [Paper Droid](https://alexvirdee.github.io/paper-droid/)
 - [Manny-Ski](https://anaraballo.github.io/MannySki-game/)
 - [Oprah Game](https://jonathanlsanch.github.io/Oprah-Run/)
