@@ -19,7 +19,7 @@ Let's start with something fun for your first project - **a game!**
 
 It's important to make your game exciting and _juicy_!
 For more information about making your game _juicy_,
-[see the lesson about it on the platform](http://learn.ironhack.com/#/learning_unit/4317).
+[see the lesson about it on the platform](http://learn.ironhack.com/#/learning_unit/6689).
 
 You and the Ironhack staff will also vote for your favorites
 and award three medals: Bronze 🥉, Silver 🥈, and Gold 🥇.
