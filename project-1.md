@@ -71,7 +71,7 @@ Schedule
   [See Demo Tips](#demo-tips)
 
 
-### Wednesday - December 17th ###
+### Wednesday - December 19th ###
 - **7 PM** - **Project #1 Presentations** <br>
   Finally, it's time for your real presentation.
   You will present your projects to the staff and other students.
