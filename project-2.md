@@ -50,7 +50,7 @@ Here are some examples of past projects:
 
 ### Monday - March 4th ###
 - **Stand ups** 
-- ** 🚨🚨🚨 EVERYONE NEEDS TO DEPLOY THE 1ST VERSION TODAY! 🚨🚨🚨**
+- **🚨🚨🚨 EVERYONE NEEDS TO DEPLOY THE 1ST VERSION TODAY! 🚨🚨🚨**
 
 ### Wednesday - March 6th ###
 - **Stand ups**
