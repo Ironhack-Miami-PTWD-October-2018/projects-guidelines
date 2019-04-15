@@ -21,14 +21,14 @@ This is where you get to show it all off!
 Your 3rd and final project
 will be a **single-page Web application** using the **MERN stack**
 (MongoDB, Express, React & Node.js)
-that **you will work on in teams of three**.
+that **you will work on in pairs or alone**.
 
-You will also practice some **UX and Agile methodologies** by following
-[the final project Trello board](https://trello.com/b/vnXgh1Y8/trello-template-final-project).
+<!-- You will also practice some **UX and Agile methodologies** by following
+[the final project Trello board](https://trello.com/b/vnXgh1Y8/trello-template-final-project). -->
 
-As usual, you and the Ironhack staff will vote for your favorites
+<!-- As usual, you and the Ironhack staff will vote for your favorites
 and award three medals: Bronze 🥉, Silver 🥈, and Gold 🥇.
-**Medalists get to present in the Hackshow**, our public event for showcasing students.
+**Medalists get to present in the Hackshow**, our public event for showcasing students. -->
 
 Here are some examples of past projects:
 
