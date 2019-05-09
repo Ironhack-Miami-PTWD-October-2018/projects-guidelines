@@ -49,11 +49,6 @@ Here are some examples of past projects:
 
 - Building Reference App - part I
 
-### Saturday - December 7th
-
-- Building Reference App - part II
-- Project - kick off 🚀
-
 ### Monday - April 22th
 
 - Stand ups
@@ -67,7 +62,6 @@ Here are some examples of past projects:
 
 - Stand ups
 - Kata
-
 
 ### Monday - April 29th
 
