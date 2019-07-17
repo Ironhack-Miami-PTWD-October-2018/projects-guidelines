@@ -30,47 +30,45 @@ Here are some examples of past projects:
 
 ## Schedule
 
-### Wednesday - February 20th ###
-- **Stand ups** - take a minute to update your colleagues with your progress: what did you do so far, do you feel on the track, behind or ahead, what's your plan for today and do you think you'll have any blockers.
-<!-- - **Coding Kata** - [Sort a 2D array](https://www.codewars.com/kata/sort-a-2d-array) -->
+### Week Nights ###
+- **Stand ups** - Every day, during project weeks, you will start with this activity. Take a minute to update your colleagues with your progress: what did you do so far, do you feel on the track, behind or ahead, what's your plan for today and do you think you'll have any blockers.
 
-### Saturday - February 23rd ###
+### Saturdays ###
 - **Stand ups**
 - **Coding Kata**
 
-### Monday - February 25th ###
+### Two days before presentation day ###
+
+_Presentation Practice_: About You & Your Project + Demo <br>
+   Refer to the [Presentation Section](#presentations) to see how to create your presentation. <br>
+   
+   
+### Presentation day ###
+Finally, it's time for your real presentation. You will present your projects to the staff and other students. <br> Remember to dress at least one degree nicer than normal. [See Demo Tips](#demo-tips)
+
+<!-- ### Monday - March 4th ###
 - **Stand ups** 
+- **🚨🚨🚨 EVERYONE NEEDS TO DEPLOY THE 1ST VERSION TODAY! 🚨🚨🚨** -->
 
-### Wednesday - February 27th ###
+<!-- ### Wednesday - March 6th ###
 - **Stand ups**
+- **🚀🚀🚀Everyone needs to start deploying daily!** -->
 
-### Saturday - March 2nd ###
-- **Stand ups**
-- **Coding Kata**
-
-### Monday - March 4th ###
-- **Stand ups** 
-- **🚨🚨🚨 EVERYONE NEEDS TO DEPLOY THE 1ST VERSION TODAY! 🚨🚨🚨**
-
-### Wednesday - March 6th ###
-- **Stand ups**
-- **🚀🚀🚀Everyone needs to start deploying daily!**
-
-### Saturday - March 9th ###
+<!-- ### Saturday - March 9th ###
 - **Stand ups**
 - **Coding Kata**
 - **4 PM** - _Presentation Practice #1_: About You & Your Project <br>
   For your first presentation practice
   you should create your initial presentation structure. <br>
   [See Presentation Section](#presentations)
-- - **🚀🚀🚀Everyone needs to start deploying daily!**
+- - **🚀🚀🚀Everyone needs to start deploying daily!** -->
 
-### Monday - March 11th ###
+<!-- ### Monday - March 11th ###
 - **Stand ups**
-- **🚀🚀🚀Everyone needs to start deploying daily!**
+- **🚀🚀🚀Everyone needs to start deploying daily!** -->
 
 
-### Wednesday - March 13th ###
+<!-- ### Wednesday - March 13th ###
 - **Stand ups**
 - **7 PM** - _Presentation Practice #2_: Demo <br>
   For the second presentation practice
@@ -78,15 +76,15 @@ Here are some examples of past projects:
   Your presentation structure should be more or less the same,
   but you should make adjustments based on feedback from the previous practice. <br>
   [See Demo Tips](#demo-tips)
-- **🚀🚀🚀Everyone needs to start deploying daily!**
+- **🚀🚀🚀Everyone needs to start deploying daily!** -->
 
 
-### Saturday - March 16th ###
+<!-- ### Saturday - March 16th ###
 - **Final touches**
 - **Project #2 Presentations**
 Finally, it's time for your real presentation.
 You will present your projects to the staff and other students.
-Remember to dress at least one degree nicer than normal.
+Remember to dress at least one degree nicer than normal. -->
 
 
 <!-- ### Bonus Katas ###
