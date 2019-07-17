@@ -40,60 +40,52 @@ Here are some examples of past projects:
 
 ## Schedule
 
-### Monday - April 15th
+### Week Nights ###
+- **Stand ups** - Every day, during project weeks, you will start with this activity. Take a minute to update your colleagues with your progress: what did you do so far, do you feel on the track, behind or ahead, what's your plan for today and do you think you'll have any blockers.
 
+### Saturdays ###
+- **Stand ups**
+- **Coding Kata**
+
+### Two days before presentation day ###
+
+_Presentation Practice_: About You & Your Project + Demo <br>
+   Refer to the [Presentation Section](#presentations) to see how to create your presentation. <br>
+   
+   
+### Presentation day ###
+Finally, it's time for your real presentation. You will present your projects to the staff and other students. <br> Remember to dress at least one degree nicer than normal. [See Demo Tips](#demo-tips)
+
+<!-- ### Monday - April 15th
 - Concept Test
-- Database Schema Planning
+- Database Schema Planning -->
 
-### Wednesday - April 17th
-
+<!-- ### Wednesday - April 17th
 - Building Reference App - part I
-
 ### Monday - April 22th
-
 - Stand ups
 - _Lesson_: Deploying Your React App
-
 ### Wednesday - April 24th
-
 - Stand ups
-
 ### Saturday - April 27th
-
 - Stand ups
 - Kata
-
 ### Monday - April 29th
-
 - Stand ups
-
-
 ### Wednesday - May 1st
-
 - Stand ups
-
 ### Saturday - May 4th
-
 - Stand ups
 - Kata
-
-
 ### Monday - May 6th
-
 - Stand ups
 - Presentation practice
-
-
 ### Wednesday - May 8th
-
 - Stand ups
 - Presentation practice
-
-
 ### Saturday - May 11th
-
 - Final Project Presentations
-- Graduation 🚀🚀🚀
+- Graduation 🚀🚀🚀 -->
 
 
 ## Updated Technical Requirements
