@@ -50,7 +50,7 @@ _Presentation Practice_: About You & Your Project + Demo <br>
    
    
 ### Presentation day ###
-Finally, it's time for your real presentation. You will present your projects to the staff and other students. <br> Remember to dress at least one degree nicer than normal.
+Finally, it's time for your real presentation. You will present your projects to the staff and other students. <br> Remember to dress at least one degree nicer than normal. [See Demo Tips](#demo-tips)
 
 <!-- ### Monday - December 10th ###
 - **Stand ups** -->
