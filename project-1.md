@@ -38,10 +38,6 @@ Schedule
 --------
 ### Week Nights ###
 - **Stand ups** - Every day, during project weeks, you will start with this activity. Take a minute to update your colleagues with your progress: what did you do so far, do you feel on the track, behind or ahead, what's your plan for today and do you think you'll have any blockers.
-<!-- - **Coding Kata** - [Sort a 2D array](https://www.codewars.com/kata/sort-a-2d-array) -->
-
-<!-- ### Wednesday - December 5th ###
-- **Stand ups** -->
 
 ### Saturdays ###
 - **Stand ups**
@@ -54,7 +50,7 @@ _Presentation Practice_: About You & Your Project + Demo <br>
    
    
 ### Presentation day ###
-Finally, it's time for your real presentation. You will present your projects to the staff and other students. Remember to dress at least one degree nicer than normal.
+Finally, it's time for your real presentation. You will present your projects to the staff and other students. <br> Remember to dress at least one degree nicer than normal.
 
 <!-- ### Monday - December 10th ###
 - **Stand ups** -->
