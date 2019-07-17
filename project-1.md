@@ -36,46 +36,55 @@ Here are some examples of past projects:
 
 Schedule
 --------
-### Monday - December 3rd ###
-- **Stand ups** - take a minute to update your colleagues with your progress: what did you do so far, do you feel on the track, behind or ahead, what's your plan for today and do you think you'll have any blockers.
+### Week Nights ###
+- **Stand ups** - Every day, during project weeks, you will start with this activity. Take a minute to update your colleagues with your progress: what did you do so far, do you feel on the track, behind or ahead, what's your plan for today and do you think you'll have any blockers.
 <!-- - **Coding Kata** - [Sort a 2D array](https://www.codewars.com/kata/sort-a-2d-array) -->
 
-### Wednesday - December 5th ###
-- **Stand ups**
+<!-- ### Wednesday - December 5th ###
+- **Stand ups** -->
 
-### Saturday - December 8th ###
-- **Stand ups**
-- **Coding Kata**
-
-### Monday - December 10th ###
-- **Stand ups** 
-
-### Wednesday - December 12th ###
-- **Stand ups**
-
-### Saturday - December 15th ###
+### Saturdays ###
 - **Stand ups**
 - **Coding Kata**
+
+### Two days before presentation day ###
+
+_Presentation Practice_: About You & Your Project + Demo <br>
+   Refer to the [Presentation Section](#presentations) to see how to create your presentation. <br>
+   
+   
+### Presentation day ###
+Finally, it's time for your real presentation. You will present your projects to the staff and other students. Remember to dress at least one degree nicer than normal.
+
+<!-- ### Monday - December 10th ###
+- **Stand ups** -->
+
+<!-- ### Wednesday - December 12th ###
+- **Stand ups** -->
+
+<!-- ### Saturday - December 15th ###
+- **Stand ups**
+- **Coding Kata** 
 - **4 PM** - _Presentation Practice #1_: About You & Your Project <br>
   For your first presentation practice
   you should create your initial presentation structure. <br>
-  [See Presentation Section](#presentations)
+  [See Presentation Section](#presentations) -->
 
-### Monday - December 17th ###
+<!-- ### Monday - December 17th ###
 - **Stand ups** 
 - **7 PM** - _Presentation Practice #2_: Demo <br>
   For the second presentation practice
   you should incorporate a demo of your live app at the end of your talk.
   Your presentation structure should be more or less the same,
   but you should make adjustments based on feedback from the previous practice. <br>
-  [See Demo Tips](#demo-tips)
+  [See Demo Tips](#demo-tips) -->
 
 
-### Wednesday - December 19th ###
+<!-- ### Wednesday - December 19th ###
 - **7 PM** - **Project #1 Presentations** <br>
   Finally, it's time for your real presentation.
   You will present your projects to the staff and other students.
-  Remember to dress at least one degree nicer than normal.
+  Remember to dress at least one degree nicer than normal. -->
 
 
 Updated Technical Requirements
