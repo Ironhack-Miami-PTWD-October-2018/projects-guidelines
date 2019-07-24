@@ -35,6 +35,13 @@ Here are some examples of past projects:
 - [E-Tarjeta](http://etarjeta.matthewkeil.com/)
 - [Cool Coloc](https://cool-coloc.herokuapp.com/)
 
+Schedule
+--------
+## Full-time:
+- **Stand ups***
+- **Coding Kata**
+- **Project development**
+
 ## Part-time:
 - **Week Nights**
     - **Stand ups***
