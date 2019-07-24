@@ -14,8 +14,6 @@
    - [General Information](#presentations)
    - [Presentation Structure](#presentation-structure)
    - [Demo Tips](#demo-tips)
-6. [Project Feedback and Evaluation](#project-feedback-and-evaluation)
-
 
 ## Introduction
 
@@ -23,7 +21,7 @@ We're almost at the end of the journey. In our time together, we've looked at to
 
 Your 3rd and final project will be a **single-page Web application** using the **MERN stack** (MongoDB, Express, React & Node.js) that **you will work on in pairs or alone**.
 
-You will also practice some **UX and Agile methodologies** by following [the final project Trello board](https://trello.com/b/vnXgh1Y8/trello-template-final-project). When planning your project with the teaching staff, 
+You will also practice some **UX and Agile methodologies** by following [the final project Trello board](https://trello.com/b/vnXgh1Y8/trello-template-final-project). When planning your project with the teaching staff, make a copy of this trello board and create tickets for all the tasks youneed to do in order to successfully complete this project. Utilize maximally all the advantages of using trello as a tool for implementing agile practice. Take a look at [Template Board: Agile with Trello](https://trello.com/b/6otslC4i/template-board-agile-with-trello) example.
 
 As usual, you and the Ironhack staff will vote for your favorites and award three medals: Bronze 🥉, Silver 🥈, and Gold 🥇.
 
@@ -190,4 +188,3 @@ Project #3 presentation will focus more on you again, since we are getting close
 5. If you app is on Heroku, **refresh it before you present**. Otherwise there will be a delay on the initial load.
 
 **Good luck!** :heart: 
-
