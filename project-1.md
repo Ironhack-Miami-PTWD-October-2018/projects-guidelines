@@ -39,14 +39,17 @@ Schedule
 ## Full-time:
 - **Stand ups***
 - **Coding Kata**
+- **Project development**
 
 ## Part-time:
 - **Week Nights**
     - **Stand ups***
+    - **Project development**
 
 - **Saturdays**
     - **Stand ups***
     - **Coding Kata**
+    - **Project development**
 <br>
 
 **Every day, during project weeks, you will start with this activity. Take a minute to update your colleagues with your progress: what did you do so far, do you feel on the track, behind or ahead, what's your plan for today and do you think you'll have any blockers.*
