@@ -1,5 +1,9 @@
+![logo_ironhack_blue 7](https://user-images.githubusercontent.com/23629340/40541063-a07a0a8a-601a-11e8-91b5-2f13e4e6b441.png)
+
 Project #1: The Game
 ====================
+
+*Find below the general guidelines. Please check in with your teacher to confirm their specific requirements (if they have any). Good luck!*
 
 Table of Contents
 -----------------
@@ -11,6 +15,7 @@ Table of Contents
     * [General Information](#presentations)
     * [Presentation Structure](#presentation-structure)
     * [Demo Tips](#demo-tips)
+6. [Project Feedback and Evaluation](#project-feedback-and-evaluation)
 
 
 Introduction
@@ -108,6 +113,8 @@ You app must:
 5. **Have a repo on GitHub**.
 6. Have at least **1 commit per day** that you worked on it.
 7. **Be deployed online** using GitHub Pages, so anybody can play it.
+8. Stick with **KISS (Keep It Simple Stupid)** and **DRY (Don't Repeat Yourself)** principles.
+
 
 
 Updated Deliverables
@@ -123,10 +130,7 @@ Updated Deliverables
 
 Presentations
 -------------
-For each of the 3 projects you make at Ironhack,
-you will also have to make a presentation about it.
-Communication (including public speaking) is an important skill to practice
-for finding a job after Ironhack.
+For each of the 3 projects you make at Ironhack, you will also have to make a presentation about it. Communication (including public speaking) is an important skill to practice for finding a job after Ironhack.
 
 ### Format ###
 - Talking with Slides: **3 minutes**
@@ -192,3 +196,26 @@ for finding a job after Ironhack.
    If you think it might be a problem, ask to test it beforehand.
 <!-- 5. If your app is on Heroku, **refresh it before you present**.
    Otherwise there will be a delay on the initial load. -->
+   
+## Project Feedback and Evaluation ##
+
+
+* **Technical Requirements**: Did you deliver a project that met all the technical requirements?
+
+* **Creativity**: Did you add a personal spin or creative element into your project submission? Did you deliver something engaging and playable to the end user?
+
+* **Code Quality**: Did you follow code style guidance and best practices covered in class, such as spacing, modularity, and semantic naming?
+
+* **Deployment**: Did you deploy your application to a public url using GitHub Pages?
+
+* **Total**: Your instructors will give you a total score on your project between:
+
+    Score | Expectations
+    ----- | ------------
+    **0** | _Didn't meet expectations_
+    **1** | _Met expectactions, good job!_
+    **2** | _Exceeded expectations, you wonderful creature, you!_
+
+You should use the feedback to focus on what needs to be improved for the next project.
+
+**Good luck!** :heart: 
