@@ -228,6 +228,6 @@ Project #2 presentation will focus mostly on your project. You **won't** have to
     **1** | _Met expectations, good job!_
     **2** | _Exceeded expectations, you magnificent creature, you!_
 
-It would be best if you used the feedback to focus on what needs to be improved for the next project.
+You should use the feedback to focus on what needs to be improved for the next project.
 
 **Good luck!** :heart: 
