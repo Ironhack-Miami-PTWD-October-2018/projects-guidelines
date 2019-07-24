@@ -36,17 +36,26 @@ Here are some examples of past projects:
 
 Schedule
 --------
-### Week Nights ###
-- **Stand ups** - Every day, during project weeks, you will start with this activity. Take a minute to update your colleagues with your progress: what did you do so far, do you feel on the track, behind or ahead, what's your plan for today and do you think you'll have any blockers.
-
-### Saturdays ###
-- **Stand ups**
+## Full-time:
+- **Stand ups***
 - **Coding Kata**
 
-### Two days before presentation day ###
+## Part-time:
+- **Week Nights**
+    - **Stand ups***
 
-_Presentation Practice_: About You & Your Project + Demo <br>
-   Refer to the [Presentation Section](#presentations) to see how to create your presentation. <br>
+- **Saturdays**
+    - **Stand ups***
+    - **Coding Kata**
+<br>
+
+**Every day, during project weeks, you will start with this activity. Take a minute to update your colleagues with your progress: what did you do so far, do you feel on the track, behind or ahead, what's your plan for today and do you think you'll have any blockers.*
+
+
+### For both: two days before presentation day ###
+
+_Presentation Practice_: About You & Your Project + Demo 
+Refer to the [Presentation Section](#presentations) to see how to create your presentation. <br>
    
    
 ### Presentation day ###
