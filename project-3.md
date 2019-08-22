@@ -194,4 +194,4 @@ Project #3 presentation will focus more on you again, since we are getting close
 4. Your app's colors and sizing **might look different on the projector**. If you think it might be a problem, ask to test it beforehand.
 5. If you app is on Heroku, **refresh it before you present**. Otherwise there will be a delay on the initial load.
 
-**Good luck!** :heart: 
+**Happy Coding!** :heart: 
