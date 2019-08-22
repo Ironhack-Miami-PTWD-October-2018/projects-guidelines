@@ -218,4 +218,4 @@ For each of the 3 projects you make at Ironhack, you will also have to make a pr
 
 You should use the feedback to focus on what needs to be improved for the next project.
 
-**Good luck!** :heart: 
+**Happy Coding!** :heart: 
