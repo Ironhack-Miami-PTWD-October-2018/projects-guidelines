@@ -230,4 +230,4 @@ Project #2 presentation will focus mostly on your project. You **won't** have to
 
 You should use the feedback to focus on what needs to be improved for the next project.
 
-**Good luck!** :heart: 
+**Happy Coding!** :heart: 
